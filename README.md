@@ -1,6 +1,6 @@
 # Port-scanner
 
-Python script providing a simple command-line tool for scanning TCP ports on a target host and identifying the status of each port. It utilizes the Nmap library for efficient port scanning and argparse for easy command-line argument handling.
+Python script provides a simple command-line tool for scanning TCP ports on a target host and identifying the status of each port. It utilizes the Nmap library for efficient port scanning and argparse for easy command-line argument handling.
 
 **Usage**
 pip install -r requirements.txt
